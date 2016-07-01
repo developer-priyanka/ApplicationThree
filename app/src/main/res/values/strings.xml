@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationThree</string>
+    <string name="toggleOff">Hide</string>
+    <string name="toggleOn">Show</string>
+</resources>
